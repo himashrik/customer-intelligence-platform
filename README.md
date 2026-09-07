@@ -92,7 +92,8 @@ The main objectives of this project are:
                            │ Business Intelligence   │
                            │ Dashboard               │
                            └─────────────────────────┘
-```text
+```markdown
+
 ✨ Key Features
 📊 Business Analytics
 Total customers
