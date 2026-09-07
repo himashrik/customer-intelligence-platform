@@ -85,8 +85,16 @@ MySQL / MariaDB
           Power BI
 
 📸 Screenshots
+<img width="1886" height="852" alt="Screenshot 2026-09-07 175528" src="https://github.com/user-attachments/assets/e08759cd-d251-4b7c-bc54-9c7ab76cb106" />
+<img width="1897" height="862" alt="Screenshot 2026-09-07 175511" src="https://github.com/user-attachments/assets/bc99f1d0-18cb-4054-b376-de35e55435d8" />
+<img width="1900" height="865" alt="Screenshot 2026-09-07 175505" src="https://github.com/user-attachments/assets/0bf03dc6-677b-4d1f-a1c4-977f4365ebfc" />
+<img width="1897" height="871" alt="Screenshot 2026-09-07 175454" src="https://github.com/user-attachments/assets/3054be87-65f3-4fb6-883d-82f8fe594fa3" />
+<img width="1901" height="871" alt="Screenshot 2026-09-07 175445" src="https://github.com/user-attachments/assets/28967949-5313-4782-afab-f905db66ddb6" />
+<img width="1900" height="866" alt="Screenshot 2026-09-07 175427" src="https://github.com/user-attachments/assets/7b440465-a35d-4819-9578-fbe9a9b73775" />
+<img width="1901" height="867" alt="Screenshot 2026-09-07 175408" src="https://github.com/user-attachments/assets/9c8b2330-21af-4688-a8d6-8ee5ffa0789d" />
 
-Add your final UI screenshots here after the frontend is ready.
+
+
 
 Dashboard
 
