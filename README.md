@@ -109,6 +109,32 @@ The platform helps businesses understand customer behavior, identify valuable an
 
 ---
 
+---
+
+# 📸 Application Screenshots
+
+| Dashboard | Customers |
+|---|---|
+| ![Dashboard](screenshots/dashboard.png) | ![Customers](screenshots/customers.png) |
+
+| Products | Analytics |
+|---|---|
+| ![Products](screenshots/products.png) | ![Analytics](screenshots/analytics.png) |
+
+| Churn Risk Overview | Churn Risk Distribution |
+|---|---|
+| ![Churn Risk](screenshots/churn-analysis.png) | ![Churn Risk Distribution](screenshots/churn-analysis1.png) |
+
+| High-Risk Customers | Detailed Churn Analysis |
+|---|---|
+| ![High-Risk Customers](screenshots/churn-analysis2.png) | ![Detailed Churn Analysis](screenshots/churn-analysis2.png) |
+
+### 🌙 Dark Mode
+
+![Dark Mode](screenshots/darkmode.png)
+
+---
+
 # 👥 RFM Customer Segmentation
 
 RFM stands for:
