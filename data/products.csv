@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+1,Wireless Headphones,Electronics,197.66
+2,Wireless Headphones,Electronics,83.54
+3,Wireless Headphones,Electronics,466.27
+4,Wireless Headphones,Electronics,430.17
+5,Smart Watch,Electronics,280.9
+6,Smart Watch,Electronics,457.83
+7,Smart Watch,Electronics,372.93
+8,Smart Watch,Electronics,215.49
+9,Bluetooth Speaker,Electronics,167.68
+10,Bluetooth Speaker,Electronics,213.97
+11,Bluetooth Speaker,Electronics,362.94
+12,Bluetooth Speaker,Electronics,142.92
+13,Power Bank,Electronics,48.16
+14,Power Bank,Electronics,192.68
+15,Power Bank,Electronics,256.0
+16,Power Bank,Electronics,451.95
+17,USB Cable,Electronics,97.88
+18,USB Cable,Electronics,404.13
+19,USB Cable,Electronics,490.89
+20,USB Cable,Electronics,477.5
+21,T-Shirt,Clothing,43.77
+22,T-Shirt,Clothing,237.9
+23,T-Shirt,Clothing,148.33
+24,T-Shirt,Clothing,423.97
+25,Jeans,Clothing,170.38
+26,Jeans,Clothing,281.01
+27,Jeans,Clothing,13.9
+28,Jeans,Clothing,108.33
+29,Hoodie,Clothing,286.27
+30,Hoodie,Clothing,158.92
+31,Hoodie,Clothing,315.13
+32,Hoodie,Clothing,237.32
+33,Jacket,Clothing,299.93
+34,Jacket,Clothing,251.75
+35,Jacket,Clothing,388.58
+36,Jacket,Clothing,105.76
+37,Sneakers,Clothing,451.22
+38,Sneakers,Clothing,382.64
+39,Sneakers,Clothing,130.11
+40,Sneakers,Clothing,13.13
+41,Coffee Maker,Home,210.92
+42,Coffee Maker,Home,124.17
+43,Coffee Maker,Home,179.75
+44,Coffee Maker,Home,421.39
+45,Table Lamp,Home,439.83
+46,Table Lamp,Home,475.99
+47,Table Lamp,Home,10.72
+48,Table Lamp,Home,332.08
+49,Bedsheet,Home,426.01
+50,Bedsheet,Home,366.34
+51,Bedsheet,Home,60.94
+52,Bedsheet,Home,269.61
+53,Kitchen Set,Home,126.7
+54,Kitchen Set,Home,251.09
+55,Kitchen Set,Home,39.35
+56,Kitchen Set,Home,498.51
+57,Wall Clock,Home,358.71
+58,Wall Clock,Home,55.58
+59,Wall Clock,Home,461.42
+60,Wall Clock,Home,449.67
+61,Face Wash,Beauty,264.68
+62,Face Wash,Beauty,353.41
+63,Face Wash,Beauty,192.52
+64,Face Wash,Beauty,487.53
+65,Moisturizer,Beauty,51.6
+66,Moisturizer,Beauty,56.83
+67,Moisturizer,Beauty,75.42
+68,Moisturizer,Beauty,411.78
+69,Shampoo,Beauty,46.67
+70,Shampoo,Beauty,288.23
+71,Shampoo,Beauty,223.14
+72,Shampoo,Beauty,482.47
+73,Perfume,Beauty,126.02
+74,Perfume,Beauty,137.89
+75,Perfume,Beauty,164.35
+76,Perfume,Beauty,402.4
+77,Lip Balm,Beauty,353.36
+78,Lip Balm,Beauty,370.32
+79,Lip Balm,Beauty,165.85
+80,Lip Balm,Beauty,143.26
+81,Python Programming,Books,46.6
+82,Python Programming,Books,109.33
+83,Python Programming,Books,392.17
+84,Python Programming,Books,296.51
+85,Data Science,Books,86.15
+86,Data Science,Books,90.54
+87,Data Science,Books,238.37
+88,Data Science,Books,209.19
+89,Machine Learning,Books,272.6
+90,Machine Learning,Books,482.67
+91,Machine Learning,Books,111.74
+92,Machine Learning,Books,161.07
+93,Database Systems,Books,139.85
+94,Database Systems,Books,68.76
+95,Database Systems,Books,87.23
+96,Database Systems,Books,346.17
+97,Web Development,Books,414.93
+98,Web Development,Books,351.47
+99,Web Development,Books,29.76
+100,Web Development,Books,419.6
